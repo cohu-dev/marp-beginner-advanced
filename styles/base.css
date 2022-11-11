@@ -1,6 +1,6 @@
 /* @theme base */
 @import "gaia";
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@200;400;700&family=Noto+Serif+JP&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@200;400;700&family=Noto+Serif+JP:wght@200;400;700&display=swap");
 
 :root {
   --main-theme: rgb(14, 131, 253);
