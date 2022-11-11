@@ -135,7 +135,14 @@ section table th {
 blockquote {
   border-top: 0.1em dashed var(--black);
   font-size: var(--mini-font-size);
-  width: 100%;
+  width: 90%;
   position: absolute;
   bottom: var(--header-footer-height);
+  padding-left: 0px;
+}
+blockquote::before {
+  display: none;
+}
+blockquote::after {
+  display: none;
 }
